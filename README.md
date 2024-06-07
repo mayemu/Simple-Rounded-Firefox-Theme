@@ -1,6 +1,6 @@
 # Simple Rounded Firefox Theme/CSS
 
-A fork of Khalylexe's Firefox-Rounded-Theme, removing the enlarged border. Includes rounded tabs, search bar, popups, and other elements.
+A fork of **Khalylexe's Firefox-Rounded-Theme**, removing the enlarged border. Includes rounded tabs, search bar, popups, and other elements.
 *I didn't do anything to the original code except remove the enlarged rounded borders.*
 
 ![image](https://mayflower.s-ul.eu/kRZP6bHL)
