@@ -1,0 +1,60 @@
+:root {
+    --newtab-item-background-color: color-mix(in srgb, var(--newtab-background-color-secondary) 50%, transparent);
+}
+
+.logo-and-wordmark {
+   display: none !important;
+}
+
+.search-wrapper .search-handoff-button, .search-wrapper input {
+   background: var(--newtab-item-background-color) var(--newtab-search-icon) 16px center no-repeat !important;
+   backdrop-filter: blur(5px) !important;
+}
+
+.contentSearchSuggestionTable {
+  background: var(--newtab-item-background-color) !important;
+  backdrop-filter: blur(5px) !important;
+}
+
+.contentSearchHeaderRow, .contentSearchHeader, .contentSearchSuggestionsContainer {
+   background: transparent !important;
+}
+
+.tile {
+   background-color: var(--newtab-item-background-color) !important;
+   backdrop-filter: blur(5px) !important;
+   transition: filter 2s var(--animation-easing-function) !important;
+}
+
+.tile:hover {
+   filter: brightness(125%) !important;
+}
+
+.top-site-outer {
+   border: unset !important;
+   background-color: unset !important;
+   backdrop-filter: unset !important;
+}
+
+.top-site-icon {
+   position: relative !important;
+   background-color: transparent !important;
+   border-radius: 4px !important;
+   height: 32px !important;
+   width: 32px !important;
+}
+
+.top-site-outer .title span {
+  background-color: var(--newtab-item-background-color);
+  padding: 2px !important;
+  backdrop-filter: blur(5px) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  border-radius: 4px !important;
+  width: fit-content !important;
+  max-width: 80px !important;
+  margin: auto !important;
+}
+
+.sponsored-label {
+   display: none !important;
+}
