@@ -4,7 +4,7 @@ A fork of Khalylexe's Firefox-Rounded-Theme, removing the enlarged border. Inclu
 *I didn't do anything to the original code except remove the enlarged rounded borders.*
 
 ![image](https://mayflower.s-ul.eu/kRZP6bHL)
-*Wallpaper art in the screenshot is by [@HyukHae_S on Twitter](https://x.com/HyukHae_Sj/status/1793475796889481330?failedScript=polyfills). Not included in this repo. You can set your own wallpaper by putting an image in the <code>chrome</code> folder titled <code>wallpaper.jpg</code>.
+*Wallpaper art in the screenshot is by [@HyukHae_S on Twitter](https://x.com/HyukHae_Sj/status/1793475796889481330?failedScript=polyfills). Not included in this repo. You can set your own wallpaper by putting an image in the <code>chrome</code> folder titled <code>wallpaper.jpg</code>.*
 
 ## Steps to configure the theme
 <ol>
