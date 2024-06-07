@@ -1,6 +1,6 @@
 # Simple Rounded Firefox Theme/CSS
 
-A fork of **Khalylexe's Firefox-Rounded-Theme**, removing the enlarged border. Includes rounded tabs, search bar, popups, and other elements. Added **aminought**'s [floorp-new-tab-refined](https://github.com/aminought/floorp-new-tab-refined) CSS as well to make the new tab page cleaner. 
+A fork of **Khalylexe's [Firefox-Rounded-Theme](https://github.com/Khalylexe/Firefox-Rounded-Theme)**, removing the enlarged border. Includes rounded tabs, search bar, popups, and other elements. Added **aminought's [floorp-new-tab-refined](https://github.com/aminought/floorp-new-tab-refined)** CSS as well to make the new tab page cleaner. 
 *I didn't do anything to the original code except remove the enlarged rounded borders.*
 
 ![image](https://mayflower.s-ul.eu/kRZP6bHL)
